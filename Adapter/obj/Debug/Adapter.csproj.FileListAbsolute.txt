@@ -1,0 +1,9 @@
+C:\Users\Ran Tao\RiderProjects\Monoova\Adapter\bin\Debug\Adapter.dll
+C:\Users\Ran Tao\RiderProjects\Monoova\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Ran Tao\RiderProjects\Monoova\Adapter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ran Tao\RiderProjects\Monoova\Adapter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ran Tao\RiderProjects\Monoova\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Ran Tao\RiderProjects\Monoova\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Ran Tao\RiderProjects\Monoova\Adapter\obj\Debug\Adapter.csproj.CopyComplete
+C:\Users\Ran Tao\RiderProjects\Monoova\Adapter\obj\Debug\Adapter.dll
+C:\Users\Ran Tao\RiderProjects\Monoova\Adapter\obj\Debug\Adapter.pdb
